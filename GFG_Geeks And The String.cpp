@@ -1,3 +1,4 @@
+class Solution {
 public:
     string removePair(string s) {
         // code here
@@ -25,4 +26,3 @@ public:
     }
  
 };
-
